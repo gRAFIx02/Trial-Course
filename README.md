@@ -13,3 +13,6 @@
 - Difference between divs and spans(`div` is block scoped, whereas `span` is inline scoped)
 - Classes and IDs
 - Semantic elements(`<header>` for header elements, `<main>` for main body, `<footer>` for footer elements)
+- Form
+- Input tags(`text`, `number`, `range`, `checkbox`, `colour`, `date`, etc.) and attributes(`id`, `value`, `placeholder`, `required`, etc.)
+- Datalist(for displaying suggested contents)
