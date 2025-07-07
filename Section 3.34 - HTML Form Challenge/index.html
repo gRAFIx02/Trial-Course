@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apartment Search</title>
+</head>
+<body>
+    <header><h1>Apartment Search</h1></header>
+    <form>
+        <!-- Location -->
+        <div>
+            <label for="location">Location</label>
+            <input type="text" id="location" placeholder="Enter desired location" required>
+        </div><br>
+        <!-- Monthly price -->
+        <div>
+            <label for="price">Price &nbsp;</label>
+            <sup>5000</sup>
+            <input type="range" id="price" min="5000" max="50000">
+            <sup>50000</sup>
+        </div><br>
+        <!-- Bedrooms -->
+        <div>
+            <label for="bedrooms">Number of Bedrooms</label>
+            <input type="number" id="bedrooms" min="2" max="6" value="2">
+        </div><br>
+        <!-- Bathrooms -->
+        <div>
+            <label for="bathrooms">Number of Bathrooms</label>
+            <input type="number" id="bathrooms" min="1" max="4" value="1">
+        </div><br>
+        <!-- Pets -->
+        <div>
+            <label for="pets">Pets</label>
+            <input type="checkbox" id="pets">
+        </div><br>
+        <!-- Date -->
+        <div>
+            <label for="date">Date Available</label>
+            <input type="date" id="date" required>
+        </div><br>
+        <!-- Submit button -->
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
