@@ -16,3 +16,16 @@
 - Form
 - Input tags (`text`, `number`, `range`, `checkbox`, `colour`, `date`, etc.) and attributes (`id`, `value`, `placeholder`, `required`, etc.)
 - Datalist (for displaying suggested contents)
+- Figure and SVG element (`<figure>`, `figcaption>`, `<svg>`)
+- Audio element (`<audio>`, `<source>`, `controls`, `loop`, `autoplay`)
+- Video element (`<video>`, `controls`, `loop`, `autoplay`, `muted`)
+- Imagemap (`usemap`, `<map>`, `<area>`)
+- Table (`<table>`, `<tr>`, `<td>`, `<thead>`, `<tbody>`, etc.)
+- Embed documents, e.g. pdf, google map location, google calendar, YouTube video, etc. (`<iframe>`)
+- Global attributes (`hidden`, `autofocus`, `tabindex`, etc.)
+- Popover
+- Details (`details`, `summary`)
+- Progress (`<progress>`, `max`, `value`)
+- Meter (`<meter>`, `value`, `min`, `max`, `low`, `optimal`, `high`)
+
+### CSS Basics
