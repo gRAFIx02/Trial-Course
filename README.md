@@ -29,3 +29,9 @@
 - Meter (`<meter>`, `value`, `min`, `max`, `low`, `optimal`, `high`)
 
 ### CSS Basics
+- CSS selectors (type, class, id)
+- Fonts (`<link>`/ `@import`/ `@fontface`)
+- Colour (name, HEX values, numerical range, rgba, hsl)
+- Specificity (`!important` > `Inline` > `ID` > `Class` > `Elements`)
+- Background properties (image, positioning, gradient, etc.)
+- Link styling (hover, active, focus)
