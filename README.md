@@ -43,3 +43,9 @@
 - Display property (`inline`, `block`, `inline-block`, `none`)
 - Position property (`static`, `relative`, `absolute`, `fixed`, `sticky`)
 - Box shadow
+
+### Flexbox
+- Flex container and items
+- Flex direction, wrap, reverse, gap
+- Justify content, align items
+- Flex shrink, grow, basis, order
