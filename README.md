@@ -35,3 +35,11 @@
 - Specificity (`!important` > `Inline` > `ID` > `Class` > `Elements`)
 - Background properties (image, positioning, gradient, etc.)
 - Link styling (hover, active, focus)
+
+### Box Model
+- Box sizing and overflow
+- Padding and margin
+- Border
+- Display property (`inline`, `block`, `inline-block`, `none`)
+- Position property (`static`, `relative`, `absolute`, `fixed`, `sticky`)
+- Box shadow
