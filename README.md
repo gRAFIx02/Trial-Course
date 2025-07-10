@@ -49,3 +49,10 @@
 - Flex direction, wrap, reverse, gap
 - Justify content, align items
 - Flex shrink, grow, basis, order
+
+### Responsive Design
+- Fixed width vs max-width
+- Absolute units (`px`, `in`, `cm`, etc.) vs relative units (`%`, `em`, `rem`, etc.)
+- Media queries
+- Container queries
+- Container units
