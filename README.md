@@ -56,3 +56,12 @@
 - Media queries
 - Container queries
 - Container units
+
+### CSS Features
+- Custom properties (setting custom variables for reuse)
+- Vendor prefix (`-webkit`, `-moz`, `-o`, etc.)
+- Filters (`blue`, `grayscale`, `opacity`, `hue-rotate`, `brightness`, `invert`, etc.)
+- Smooth scrolling
+- Sticky navbar
+- `calc()`
+- Nesting CSS selectors
