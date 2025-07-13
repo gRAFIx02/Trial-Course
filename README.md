@@ -65,3 +65,12 @@
 - Sticky navbar
 - `calc()`
 - Nesting CSS selectors
+
+### Advance Selectors
+- Attribute selector (e.g. - `.div[draggable] {}`: Select all **div** that are **draggable**)
+- Combinators
+    - Child combinator (e.g. - `ul > li {}`)
+    - Next-sibling combinator (e.g. `h2 + p {}`)
+    - Subsequent-sibling combinator (e.g. `form input ~ button {}`)
+- Pseudo elements (`::first-letter`, `::placeholder`, `::file-selector-button`, `::before`, `::after`, etc.)
+- Pseudo classes (`:first-child`, `:last-child`, `:nth-child(<parameter>)`, `:first-of-type`, `:last-of-type`, `:nth-of-type(<parameter>)`, etc.)
