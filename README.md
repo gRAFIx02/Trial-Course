@@ -66,7 +66,7 @@
 - `calc()`
 - Nesting CSS selectors
 
-### Advance Selectors
+### Advanced Selectors
 - Attribute selector (e.g. - `.div[draggable] {}`: Select all **div** that are **draggable**)
 - Combinators
     - Child combinator (e.g. - `ul > li {}`)
@@ -81,3 +81,9 @@
 - Justify, align and place items and content
 - Span and naming grid
 - Area template
+
+### Advanced CSS Features
+- Transition
+- Transform (`scale`, `translate`, `skew`, `rotate`)
+- Animation
+- Keyframes
