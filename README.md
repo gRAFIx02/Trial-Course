@@ -74,3 +74,10 @@
     - Subsequent-sibling combinator (e.g. `form input ~ button {}`)
 - Pseudo elements (`::first-letter`, `::placeholder`, `::file-selector-button`, `::before`, `::after`, etc.)
 - Pseudo classes (`:first-child`, `:last-child`, `:nth-child(<parameter>)`, `:first-of-type`, `:last-of-type`, `:nth-of-type(<parameter>)`, etc.)
+
+### Grid
+- Grid template and fractional units
+- `repeat()`, `autofill`, `autofit`, `minmax()`
+- Justify, align and place items and content
+- Span and naming grid
+- Area template
