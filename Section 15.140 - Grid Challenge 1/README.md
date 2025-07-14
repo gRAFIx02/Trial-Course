@@ -1,0 +1,1 @@
+### Output of grid challenge 1
